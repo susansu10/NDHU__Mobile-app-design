@@ -4,3 +4,4 @@
 #### Ex1 updated!
 #### Ex2 updated!
 #### Midterm01 updated!
+#### Midterm02 updated!
